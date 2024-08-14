@@ -5,4 +5,4 @@ const TravelSchema = new mongoose.Schema({
     activities: [{ type: String, required: true }],
 });
 
-module.exports = mongoose.model('Travel', TravelSchema);
+module.exports = mongoose.model('travel', TravelSchema);
