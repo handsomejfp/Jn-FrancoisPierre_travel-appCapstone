@@ -17,7 +17,7 @@ router.post('/add-initial-data', async (req, res) => {
                     'Hike in Joshua Tree National Park',
                     'Visit Disneyland in Anaheim',
                     'Explore Lake Tahoe',
-                    'Enjoy Big Sur’s Scenic Views'
+                    'Enjoy Big Surs Scenic Views'
                 ]
             },
             {
