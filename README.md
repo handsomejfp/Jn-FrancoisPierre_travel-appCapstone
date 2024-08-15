@@ -35,3 +35,25 @@ Pierre_JnFrancois_TravelApp_Capstone/
 │ ├── index.html
 │ └── package.json
 └── README.md
+
+YourLastName_YourFirstName_TravelApp_Capstone/
+│
+├── backend/
+│   ├── models/
+│   │   └── Travel.js
+│   ├── routes/
+│   │   └── travelRoutes.js
+│   ├── server.js
+│   └── .env
+│
+├── frontend/
+│   ├── src/
+│   │   ├── pages/
+│   │   │   ├── Home.jsx
+│   │   │   └── Home.css
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   ├── index.html
+│   └── package.json
+└── README.md
+
