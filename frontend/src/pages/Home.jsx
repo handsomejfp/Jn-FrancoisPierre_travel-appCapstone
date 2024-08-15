@@ -8,7 +8,7 @@ function Home() {
 
     const fetchActivities = async () => {
         try {
-            const response = await axios.get(`http://localhost:4040/api/travel/${state}`);
+            const response = await axios.get(`http://localhost:6000/api/travel/${state}`);
             setActivities(response.data);
         } catch (error) {
             console.error('Error fetching activities', error);
