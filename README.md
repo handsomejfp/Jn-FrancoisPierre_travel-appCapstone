@@ -36,3 +36,5 @@ Pierre_JnFrancois_TravelApp_Capstone/
 │ └── package.json
 └── README.md
 
+http://localhost:4040/api/travel/add the state you’re looking for (to access backend data)
+
